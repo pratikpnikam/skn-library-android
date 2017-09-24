@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SKN Library</string>
+    <string name="enter_book_name">Enter Book Name :</string>
+    <string name="search">Search</string>
+    <string name="book_not_found">BOOK NOT FOUND!!</string>
+    <string name="book_found">BOOK FOUND!!</string>
+</resources>
